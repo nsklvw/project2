@@ -1,0 +1,301 @@
+order_id,customer_name,city,product_name,category,quantity,price_per_unit,discount_percent,revenue,cost,order_date,payment_method,delivery_type
+1,Alex,Berlin,Headphones,Electronics,1,1538,10.0,1538,1185.71,2025-03-13,PayPal,Standard
+2,Alex,Yerevan,Smartphone,Electronics,4,85,0.0,340,238.55,2025-04-30,Card,Standard
+3,Sophie,Rome,T-shirt,Fashion,4,471,15.0,1884,1465.08,2025-01-04,Card,Express
+4,Daniel,Prague,Coffee Machine,Home,3,338,5.0,undefined,585.91,2025-02-22,Card,Express
+5,Michael,Warsaw,Coffee Machine,Home,5,561,0.0,2805,1647.79,2025-10-02,Cash,Standard
+6,Daniel,Prague,T-shirt,Fashion,3,1718,20.0,5154,3132.02,2025-10-23,Card,Standard
+7,John,Prague,Chair,Furniture,3,183,5.0,549,347.73,2025-07-14,PayPal,Express
+8,Sophie,Warsaw,Keyboard,Electronics,3,747,5.0,2241,1862.26,2025-12-26,PayPal,Standard
+9,Michael,Berlin,Smartphone,Electronics,2,1113,5.0,2226,1404.57,2025-07-14,PayPal,Standard
+10,Daniel,Prague,Coffee Machine,Home,1,489,0.0,489,308.23,2025-07-25,Card,Express
+11,Sophie,Berlin,Chair,Furniture,4,830,15.0,3320,2071.64,2025-03-13,PayPal,Express
+12,Daniel,Madrid,Smartphone,Electronics,4,1858,20.0,7432,6311.24,2025-04-23,Card,Express
+13,Maria,,Headphones,Electronics,1,1783,0.0,1783,1206.46,2025-12-15,Card,Express
+14,Olivia,Paris,Backpack,Accessories,5,error,20.0,4890,3687.48,2025-01-06,Card,Express
+15,Michael,Berlin,Coffee Machine,Home,1,621,15.0,621,519.25,2025-01-02,PayPal,Express
+16,Sophie,Prague,T-shirt,Fashion,2,1059,,2118,1487.47,2025-11-24,Card,Standard
+17,David,Yerevan,Coffee Machine,Home,2,1124,,2248,1565.92,2025-06-15,Card,Express
+18,John,Rome,Desk,Furniture,2,138,5.0,276,212.4,2025-02-13,Card,Standard
+19,Sophie,Berlin,Keyboard,Electronics,4,1959,20.0,7836,6360.72,2025-09-28,Cash,Standard
+20,Daniel,Madrid,T-shirt,Fashion,2,1480,10.0,2960,2426.86,2025-08-13,Cash,Standard
+21,David,Yerevan,Chair,Furniture,2,151,10.0,302,186.95,2025-10-11,Card,Standard
+22,Daniel,Yerevan,Headphones,Electronics,1,488,0.0,488,343.67,2025-02-06,Cash,Express
+23,Michael,Rome,Chair,Furniture,5,290,20.0,1450,1138.81,2025-05-05,Cash,Standard
+24,Emma,Paris,Headphones,Electronics,1,1369,15.0,1369,944.76,2025-07-30,PayPal,Standard
+25,John,Prague,Headphones,Electronics,1,844,10.0,844,512.71,2025-05-08,PayPal,Express
+26,Alex,Madrid,Keyboard,Electronics,4,395,10.0,1580,1079.04,2025-02-08,PayPal,Standard
+27,Alex,Yerevan,Laptop,Electronics,5,1732,0.0,8660,5818.86,2025-03-27,Cash,Standard
+28,Emma,Yerevan,Backpack,Accessories,1,357,15.0,357,295.58,2025-05-16,Cash,Express
+29,Alex,Berlin,Backpack,Accessories,5,1375,15.0,6875,4230.26,2025-06-01,Card,Standard
+30,Olivia,Madrid,Coffee Machine,Home,1,122,20.0,122,72.86,2025-09-29,PayPal,Standard
+31,Alex,Warsaw,Keyboard,Electronics,1,1238,0.0,1238,725.43,2025-07-26,PayPal,Standard
+32,Emma,Yerevan,Smartphone,Electronics,5,101,20.0,505,366.18,2025-12-03,PayPal,Express
+33,Sophie,Berlin,Desk,Furniture,2,1391,10.0,2782,1639.33,2025-07-22,PayPal,Express
+34,Michael,Yerevan,Sneakers,Fashion,3,1922,0.0,5766,4898.43,2025-11-15,Card,Standard
+35,Daniel,Berlin,T-shirt,Fashion,2,1056,10.0,2112,1718.71,2025-02-05,Cash,Express
+36,Sophie,Warsaw,Keyboard,Electronics,4,1727,20.0,6908,5838.34,2025-11-10,PayPal,Standard
+37,Sophie,Berlin,T-shirt,Fashion,3,1928,0.0,5784,4725.03,2025-03-01,PayPal,Standard
+38,Daniel,Warsaw,Desk,Furniture,3,1258,5.0,3774,2854.08,2025-04-15,Cash,Express
+39,Sophie,Prague,Desk,Furniture,1,209,15.0,209,115.17,2025-01-23,Card,Express
+40,Anna,Rome,Keyboard,Electronics,4,1149,15.0,4596,2631.55,2025-02-27,PayPal,Standard
+41,Olivia,Rome,T-shirt,Fashion,1,1729,10.0,1729,1173.88,2025-03-17,Card,Express
+42,Alex,Berlin,Coffee Machine,Home,1,1860,10.0,1860,1080.36,2025-12-08,PayPal,Express
+43,Maria,Prague,Smartphone,Electronics,2,1915,5.0,3830,3119.25,2025-04-01,Card,Standard
+44,Maria,Paris,Coffee Machine,Home,4,1662,5.0,6648,3871.99,2025-12-26,Card,Express
+45,Sophie,Paris,Chair,Furniture,2,1692,15.0,3384,2087.51,2025-04-27,,Standard
+46,Sophie,Prague,Backpack,Accessories,3,590,0.0,1770,1314.13,2025-06-29,Cash,Express
+47,David,Berlin,Laptop,Electronics,1,1816,10.0,1816,1019.64,2025-05-16,PayPal,Express
+48,John,Rome,Coffee Machine,Home,3,913,,2739,2245.57,2025-07-17,Card,Express
+49,Olivia,Prague,Laptop,Electronics,4,23,20.0,92,70.46,2025-12-18,PayPal,Standard
+50,Daniel,Rome,Coffee Machine,Home,4,163,10.0,652,524.47,2025-12-06,PayPal,Express
+51,Emma,Paris,T-shirt,Fashion,3,1385,15.0,4155,2653.78,2025-12-23,Card,Standard
+52,David,Rome,Backpack,Accessories,4,1407,5.0,5628,3781.02,2025-06-04,Card,Express
+53,Daniel,Rome,Desk,Furniture,2,900,20.0,1800,1228.56,2025-08-27,,Standard
+54,John,Warsaw,T-shirt,Fashion,4,1645,5.0,6580,4636.5,2025-05-26,PayPal,Express
+55,Alex,Berlin,Headphones,Electronics,2,1397,10.0,2794,1557.17,2025-03-17,Card,Express
+56,David,Warsaw,Smartphone,Electronics,1,952,15.0,952,728.76,2025-04-10,Cash,Express
+57,John,Prague,Backpack,Accessories,2,322,0.0,644,396.48,2025-08-06,PayPal,Express
+58,Maria,,Laptop,Electronics,5,530,0.0,2650,1988.22,2025-08-26,PayPal,Express
+59,Olivia,Madrid,Sneakers,Fashion,5,1689,20.0,8445,6917.83,2025-08-17,PayPal,Express
+60,Sophie,Prague,Sneakers,Fashion,3,1559,5.0,4677,3252.29,2025-09-24,Card,Express
+61,Sophie,Berlin,Sneakers,Fashion,1,1481,10.0,1481,956.6,2025-06-21,PayPal,Standard
+62,Maria,Warsaw,Keyboard,Electronics,2,493,15.0,986,605.59,2025-12-28,Cash,Express
+63,Alex,Yerevan,Coffee Machine,Home,5,974,15.0,4870,3247.53,2025-08-04,PayPal,Standard
+64,Sophie,Paris,Smartphone,Electronics,4,996,0.0,3984,3211.24,2025-07-19,Cash,Standard
+65,Anna,Madrid,Sneakers,Fashion,2,578,15.0,1156,752.37,2025-07-19,PayPal,Express
+66,Olivia,Rome,Keyboard,Electronics,4,1903,5.0,7612,6257.66,2025-01-14,PayPal,Standard
+67,Anna,Berlin,Headphones,Electronics,4,297,15.0,1188,788.51,2025-05-14,Card,Express
+68,Emma,Paris,Coffee Machine,Home,3,1578,15.0,4734,3789.44,2025-05-10,Cash,Standard
+69,John,Berlin,T-shirt,Fashion,1,1969,10.0,1969,1106.73,2025-11-30,Card,Standard
+70,Maria,Berlin,Chair,Furniture,1,1292,5.0,1292,970.08,2025-08-31,PayPal,Standard
+71,David,Berlin,Sneakers,Fashion,3,1590,10.0,4770,4002.6,2025-11-07,PayPal,Standard
+72,Sophie,Yerevan,Keyboard,Electronics,3,241,20.0,723,544.57,2025-10-22,,Express
+73,Sophie,Yerevan,Chair,Furniture,1,1232,5.0,1232,899.51,2025-12-17,Card,Standard
+74,Olivia,Yerevan,Coffee Machine,Home,5,897,10.0,4485,2925.88,2025-11-28,Cash,Express
+75,Michael,Warsaw,Headphones,Electronics,4,1987,10.0,7948,4736.19,2025-12-29,Card,Express
+76,Emma,Madrid,Smartphone,Electronics,5,1606,15.0,8030,5063.06,2025-10-31,Card,Standard
+77,David,Rome,Desk,Furniture,4,519,15.0,2076,1377.83,2025-12-09,Card,Express
+78,Sophie,Paris,Coffee Machine,Home,2,1018,5.0,2036,1290.62,2025-06-24,PayPal,Express
+79,Alex,Yerevan,T-shirt,Fashion,1,1078,5.0,1078,750.91,2025-07-28,Card,Express
+80,Sophie,Yerevan,Sneakers,Fashion,4,1643,0.0,6572,4411.92,2025-04-24,Card,Express
+81,Daniel,Rome,Smartphone,Electronics,3,989,20.0,2967,2518.95,2025-08-06,PayPal,Express
+82,Alex,Paris,Coffee Machine,Home,4,574,10.0,2296,1759.62,2025-03-03,Cash,Standard
+83,Michael,Warsaw,T-shirt,Fashion,2,412,5.0,824,632.32,2025-05-22,PayPal,Express
+84,Maria,Paris,Headphones,Electronics,2,626,5.0,1252,693.91,2025-06-04,PayPal,Standard
+85,Maria,Paris,Desk,Furniture,1,131,20.0,131,106.18,2025-11-23,Cash,Standard
+86,Michael,Madrid,Laptop,Electronics,5,602,15.0,3010,1821.98,2025-06-24,Card,Express
+87,Michael,Madrid,Sneakers,Fashion,1,1703,0.0,1703,1231.45,2025-02-07,PayPal,Standard
+88,John,Paris,Keyboard,Electronics,2,1681,20.0,3362,1968.57,2025-05-08,Cash,Standard
+89,David,Paris,T-shirt,Fashion,4,942,15.0,3768,2417.6,2025-08-08,PayPal,Standard
+90,Alex,Warsaw,Smartphone,Electronics,1,1960,5.0,1960,1466.33,2025-05-16,Card,Standard
+91,Emma,Yerevan,Keyboard,Electronics,5,173,5.0,865,654.64,2025-08-19,Cash,Express
+92,Michael,Warsaw,Laptop,Electronics,2,610,10.0,1220,922.58,2025-02-06,Cash,Standard
+93,Maria,Warsaw,Backpack,Accessories,1,1135,5.0,1135,905.72,2025-05-17,Card,Standard
+94,Michael,Paris,Keyboard,Electronics,3,1238,20.0,3714,2564.92,2025-03-05,Cash,Express
+95,John,Madrid,Desk,Furniture,5,1125,15.0,5625,3161.02,2025-11-03,Cash,Express
+96,David,Berlin,Smartphone,Electronics,3,72,0.0,216,180.41,2025-10-28,PayPal,Express
+97,Olivia,Madrid,Smartphone,Electronics,1,1582,5.0,1582,1079.98,2025-11-30,Cash,Standard
+98,Michael,Yerevan,Smartphone,Electronics,4,1320,15.0,5280,3550.82,2025-06-28,Cash,Standard
+99,Emma,Paris,Keyboard,Electronics,3,863,15.0,2589,1452.45,2025-10-09,Card,Express
+100,Olivia,Prague,Desk,Furniture,3,257,15.0,771,576.17,2025-01-01,PayPal,Express
+101,David,Paris,Backpack,Accessories,1,404,20.0,404,298.0,2025-09-13,Card,Standard
+102,Michael,Madrid,Desk,Furniture,5,-,10.0,1440,804.47,2025-03-04,PayPal,Standard
+103,Emma,Rome,Keyboard,Electronics,3,1148,0.0,3444,2126.36,2025-02-17,Card,Express
+104,Sophie,Rome,Headphones,Electronics,2,1040,10.0,2080,1664.87,2025-08-01,Cash,Standard
+105,David,Berlin,Sneakers,Fashion,5,316,15.0,1580,1222.74,2025-09-18,Card,Standard
+106,Anna,Paris,Desk,Furniture,4,716,20.0,2864,2199.02,2025-05-25,PayPal,Express
+107,Daniel,Paris,Keyboard,Electronics,4,1123,15.0,4492,3498.65,2025-10-10,Cash,Express
+108,Emma,Rome,Coffee Machine,Home,2,1448,5.0,2896,2336.5,2025-04-30,Cash,Standard
+109,Maria,Madrid,Coffee Machine,Home,4,1464,15.0,5856,4915.8,2025-09-11,Card,Express
+110,Anna,Madrid,Headphones,Electronics,4,224,20.0,896,603.0,2025-03-15,PayPal,Standard
+111,David,Paris,Headphones,Electronics,4,1620,10.0,6480,4336.71,2025-12-21,Card,Express
+112,Michael,Warsaw,T-shirt,Fashion,4,1974,,7896,4427.84,2025-10-05,Card,Standard
+113,John,Madrid,Desk,Furniture,,1549,0.0,3098,2358.1,2025-11-21,Card,Express
+114,Daniel,Yerevan,Keyboard,Electronics,3,1870,0.0,5610,3579.24,2025-01-29,Cash,Express
+115,Maria,,Keyboard,Electronics,2,1107,15.0,2214,1333.98,2025-03-29,PayPal,Express
+116,Alex,Berlin,Smartphone,Electronics,2,1039,20.0,2078,1540.57,2025-08-25,Cash,Express
+117,Olivia,Warsaw,Laptop,Electronics,4,1865,10.0,7460,4268.3,2025-03-22,Cash,Express
+118,Emma,Berlin,Backpack,Accessories,3,955,10.0,2865,1667.42,2025-09-05,Cash,Express
+119,Emma,Yerevan,Smartphone,Electronics,3,1452,10.0,4356,2406.38,2025-05-21,PayPal,Standard
+120,Alex,Prague,Smartphone,Electronics,4,1725,,6900,5455.0,2025-11-07,Card,Standard
+121,John,Warsaw,Smartphone,Electronics,3,1408,5.0,4224,3142.24,2025-11-18,Cash,Express
+122,Sophie,Yerevan,Laptop,Electronics,5,767,5.0,3835,2969.23,2025-06-17,Card,Standard
+123,Olivia,Rome,Keyboard,Electronics,5,1814,10.0,9070,7248.22,2025-05-20,Cash,Express
+124,John,Madrid,Desk,Furniture,3,1667,0.0,5001,3882.0,2025-03-14,Card,Express
+125,Sophie,Yerevan,T-shirt,Fashion,3,204,15.0,612,359.29,2025-10-02,Cash,Express
+126,Alex,,Smartphone,Electronics,4,1704,10.0,6816,3799.97,2025-08-30,PayPal,Express
+127,Michael,Warsaw,Smartphone,Electronics,2,1346,0.0,2692,1724.65,2025-12-25,Cash,Standard
+128,Michael,Paris,Keyboard,Electronics,1,1957,0.0,1957,1133.41,2025-03-01,PayPal,Standard
+129,David,Madrid,Backpack,Accessories,4,779,20.0,3116,2541.48,2025-03-21,PayPal,Standard
+130,Daniel,Yerevan,Sneakers,Fashion,5,855,10.0,4275,2919.89,2025-04-22,Card,Express
+131,Emma,Yerevan,Headphones,Electronics,3,1135,10.0,3405,2066.64,2025-05-22,Card,Express
+132,Anna,Yerevan,Headphones,Electronics,2,1334,20.0,2668,1662.35,2025-06-20,Card,Standard
+133,Alex,Berlin,Headphones,Electronics,5,444,20.0,2220,1736.73,2025-06-18,PayPal,Standard
+134,Maria,Paris,Desk,Furniture,2,286,20.0,572,428.04,2025-02-26,Card,Standard
+135,Daniel,Rome,Laptop,Electronics,3,1637,5.0,4911,2957.77,2025-01-09,Card,Standard
+136,Michael,Madrid,Backpack,Accessories,5,252,0.0,1260,887.0,2025-07-05,Card,Express
+137,Olivia,Yerevan,T-shirt,Fashion,2,1956,20.0,3912,2689.16,2025-06-04,Card,Standard
+138,Michael,Madrid,Sneakers,Fashion,4,893,0.0,3572,2928.25,2025-02-07,Cash,Standard
+139,David,Warsaw,Headphones,Electronics,2,583,20.0,1166,890.41,2025-10-08,Cash,Express
+140,John,Yerevan,Sneakers,Fashion,5,1259,15.0,6295,4691.51,2025-12-02,PayPal,Standard
+141,Daniel,,Backpack,Accessories,4,1838,5.0,7352,4923.04,2025-08-21,PayPal,Standard
+142,Maria,Paris,Coffee Machine,Home,4,660,10.0,2640,2183.0,2025-12-18,Card,Standard
+143,Daniel,Warsaw,Headphones,Electronics,1,904,0.0,null,648.09,2025-03-08,PayPal,Express
+144,Anna,Prague,Headphones,Electronics,4,744,15.0,2976,2172.85,2025-05-28,Cash,Standard
+145,Michael,Warsaw,Smartphone,Electronics,5,455,5.0,2275,1829.52,2025-04-25,Cash,Express
+146,Emma,Prague,Headphones,Electronics,3,1195,5.0,3585,3019.87,2025-10-15,PayPal,Standard
+147,Sophie,Paris,Smartphone,Electronics,3,79,5.0,237,155.31,2025-06-23,Card,Standard
+148,Anna,Warsaw,Smartphone,Electronics,4,162,5.0,648,501.44,2025-02-16,Card,Express
+149,Sophie,Paris,Backpack,Accessories,4,718,5.0,2872,2248.92,2025-06-16,PayPal,Standard
+150,John,Yerevan,Laptop,Electronics,2,342,20.0,684,467.13,2025-05-20,Cash,Express
+151,Olivia,Berlin,Smartphone,Electronics,4,868,10.0,3472,2269.13,2025-02-28,Card,Express
+152,Alex,Yerevan,Smartphone,Electronics,4,1099,10.0,4396,3716.09,2025-07-22,Card,Standard
+153,Maria,Prague,Chair,Furniture,3,1956,5.0,5868,3736.94,2025-05-11,Card,Standard
+154,Olivia,Madrid,Sneakers,Fashion,4,379,5.0,1516,938.45,2025-12-27,PayPal,Express
+155,Anna,Madrid,Headphones,Electronics,4,1784,0.0,7136,5896.82,2025-08-24,Cash,Express
+156,John,Paris,Smartphone,Electronics,4,1473,15.0,5892,3277.47,2025-07-27,Cash,Standard
+157,Emma,Yerevan,Smartphone,Electronics,4,1723,10.0,6892,4293.68,2025-02-24,PayPal,Express
+158,Daniel,Warsaw,T-shirt,Fashion,1,830,10.0,830,539.43,2025-04-24,Card,Standard
+159,Daniel,Berlin,T-shirt,Fashion,1,1106,20.0,1106,849.64,2025-06-29,PayPal,Standard
+160,Maria,Berlin,Chair,Furniture,1,319,10.0,319,190.08,2025-11-05,PayPal,Standard
+161,David,Prague,Keyboard,Electronics,4,970,20.0,3880,2926.84,2025-08-18,PayPal,Express
+162,Michael,Madrid,Coffee Machine,Home,2,920,0.0,1840,1179.16,2025-11-20,Cash,Standard
+163,Michael,Madrid,Coffee Machine,Home,5,171,10.0,855,484.84,2025-01-20,Cash,Standard
+164,Michael,Madrid,Headphones,Electronics,5,1236,20.0,6180,4426.7,2025-10-25,PayPal,Standard
+165,David,Paris,Sneakers,Fashion,5,1354,5.0,6770,4741.78,2025-09-01,Card,Express
+166,Maria,Rome,Headphones,Electronics,3,1482,0.0,4446,2775.74,2025-01-21,Cash,Express
+167,Daniel,Paris,T-shirt,Fashion,5,1268,5.0,6340,4223.87,2025-05-25,Cash,Standard
+168,Emma,Rome,Coffee Machine,Home,1,695,0.0,695,434.79,2025-05-26,PayPal,Standard
+169,Sophie,Paris,Coffee Machine,Home,1,1213,5.0,1213,921.33,2025-12-02,Cash,Standard
+170,Daniel,Madrid,Smartphone,Electronics,1,654,20.0,654,491.18,2025-03-07,PayPal,Standard
+171,Sophie,Paris,Backpack,Accessories,5,761,0.0,3805,3178.51,2025-04-03,Cash,Express
+172,Sophie,Yerevan,Chair,Furniture,2,301,5.0,602,422.79,2025-02-21,PayPal,Standard
+173,Maria,Madrid,Coffee Machine,Home,5,288,20.0,1440,870.13,2025-03-25,PayPal,Standard
+174,Alex,Warsaw,Sneakers,Fashion,1,861,10.0,861,631.27,2025-08-16,PayPal,Express
+175,Michael,Prague,Chair,Furniture,5,509,10.0,2545,1680.6,2025-04-10,PayPal,Express
+176,Olivia,Rome,Sneakers,Fashion,3,1613,15.0,4839,4064.18,2025-08-03,Card,Standard
+177,Daniel,Prague,Desk,Furniture,1,1333,15.0,1333,1106.77,2025-10-11,PayPal,Standard
+178,Michael,Paris,Desk,Furniture,1,1582,5.0,1582,940.03,2025-09-20,Cash,Standard
+179,Emma,Yerevan,Chair,Furniture,4,1831,10.0,7324,4899.29,2025-01-28,Cash,Standard
+180,Daniel,Yerevan,Backpack,Accessories,1,787,5.0,787,630.98,2025-02-20,PayPal,Express
+181,Michael,Prague,Keyboard,Electronics,2,98,10.0,196,156.67,2025-12-23,PayPal,Express
+182,Sophie,Yerevan,Sneakers,Fashion,5,30,0.0,150,120.07,2025-04-21,PayPal,Express
+183,Anna,Yerevan,Headphones,Electronics,3,506,10.0,1518,1026.09,2025-05-03,PayPal,Express
+184,Olivia,Rome,Headphones,Electronics,1,1733,15.0,1733,1281.7,2025-01-09,PayPal,Standard
+185,Daniel,Rome,Keyboard,Electronics,3,899,0.0,2697,1945.07,2025-05-04,Card,Standard
+186,Olivia,Rome,T-shirt,Fashion,3,158,20.0,474,339.5,2025-09-17,Cash,Express
+187,Anna,Warsaw,Laptop,Electronics,4,784,10.0,3136,2466.64,2025-07-02,Cash,Standard
+188,Anna,Berlin,Headphones,Electronics,5,1525,10.0,7625,5442.76,2025-06-30,PayPal,Standard
+189,Maria,Prague,Sneakers,Fashion,4,1313,5.0,5252,4016.8,2025-02-02,Cash,Standard
+190,Daniel,Yerevan,Desk,Furniture,2,109,5.0,218,153.61,2025-06-08,PayPal,Express
+191,Daniel,Paris,Desk,Furniture,1,1562,5.0,1562,1264.81,2025-01-25,Cash,Express
+192,Michael,Warsaw,Headphones,Electronics,3,914,15.0,2742,1786.99,2025-07-17,Card,Express
+193,John,Paris,Sneakers,Fashion,3,1912,20.0,5736,3290.62,2025-08-06,PayPal,Standard
+194,Daniel,Yerevan,T-shirt,Fashion,3,677,0.0,2031,1297.18,2025-12-05,Cash,Express
+195,Daniel,Yerevan,Keyboard,Electronics,4,739,15.0,2956,2510.96,2025-11-11,Cash,Standard
+196,Maria,Prague,Headphones,Electronics,4,764,20.0,3056,1811.7,2025-01-16,PayPal,Express
+197,Daniel,Prague,Laptop,Electronics,2,157,5.0,314,208.76,2025-07-05,PayPal,Standard
+198,Daniel,Paris,Smartphone,Electronics,2,1410,15.0,2820,2196.57,2025-08-16,PayPal,Standard
+199,Sophie,Warsaw,T-shirt,Fashion,3,835,10.0,2505,2099.58,2025-05-08,Card,Standard
+200,Sophie,Yerevan,Sneakers,Fashion,5,812,20.0,4060,3090.52,2025-05-14,Card,Express
+201,John,Prague,Sneakers,Fashion,2,271,5.0,542,326.17,2025-08-20,PayPal,Express
+202,John,Warsaw,Headphones,Electronics,3,1387,10.0,4161,2965.34,2025-10-09,Cash,Standard
+203,Alex,Yerevan,Keyboard,Electronics,3,1061,5.0,3183,1976.71,2025-03-13,Cash,Standard
+204,Olivia,Madrid,Coffee Machine,Home,5,1192,10.0,5960,4372.16,2025-03-08,Card,Standard
+205,Emma,Rome,Desk,Furniture,4,1488,15.0,5952,4743.75,2025-07-29,Card,Standard
+206,Olivia,Warsaw,Coffee Machine,Home,1,941,15.0,941,553.78,2025-06-26,PayPal,Standard
+207,John,Prague,Keyboard,Electronics,4,1049,0.0,4196,2500.42,2025-09-23,Card,Standard
+208,John,Paris,Coffee Machine,Home,2,728,20.0,1456,886.54,2025-05-09,PayPal,Express
+209,Olivia,Yerevan,Keyboard,Electronics,3,1278,20.0,3834,2302.67,2025-11-25,PayPal,Standard
+210,David,Paris,Keyboard,Electronics,5,1495,20.0,7475,5961.84,2025-01-22,Card,Standard
+211,David,Prague,Laptop,Electronics,5,562,5.0,2810,2066.57,2025-08-02,Card,Express
+212,Alex,Madrid,T-shirt,Fashion,3,1334,10.0,4002,2688.65,2025-12-17,Cash,Standard
+213,Michael,Madrid,Laptop,Electronics,2,920,15.0,1840,1199.79,2025-04-15,Card,Express
+214,Daniel,Prague,Coffee Machine,Home,3,836,5.0,2508,1801.99,2025-09-21,Cash,Standard
+215,Maria,Berlin,Sneakers,Fashion,many,567,15.0,567,320.46,2025-02-19,Cash,Express
+216,Daniel,Rome,Chair,Furniture,2,1686,10.0,3372,2626.57,2025-04-08,Cash,Express
+217,Emma,Yerevan,Sneakers,Fashion,3,1038,0.0,3114,2139.84,2025-09-16,,Standard
+218,Michael,Paris,Smartphone,Electronics,3,119,0.0,357,290.85,2025-11-02,PayPal,Express
+219,Maria,Madrid,Desk,Furniture,5,36,0.0,180,138.29,2025-05-16,Cash,Express
+220,Alex,Rome,Laptop,Electronics,4,124,20.0,496,355.12,2025-07-05,Card,Express
+221,David,Paris,T-shirt,Fashion,4,1585,20.0,6340,4649.2,2025-12-15,Card,Standard
+222,Daniel,Rome,Backpack,Accessories,3,1647,10.0,4941,3012.61,2025-03-15,PayPal,Express
+223,Daniel,Berlin,T-shirt,Fashion,1,112,0.0,112,79.05,2025-08-31,Card,Standard
+224,David,Madrid,Coffee Machine,Home,5,672,5.0,3360,2446.47,2025-06-03,PayPal,Express
+225,Daniel,Paris,Smartphone,Electronics,3,992,0.0,2976,1734.65,2025-12-11,Cash,Express
+226,David,Warsaw,Laptop,Electronics,5,991,10.0,4955,3063.49,2025-10-23,Card,Express
+227,Emma,Prague,Keyboard,Electronics,5,1308,20.0,6540,5209.1,2025-03-17,Card,Standard
+228,Daniel,Madrid,Smartphone,Electronics,1,410,0.0,410,244.13,2025-08-03,PayPal,Standard
+229,Anna,Madrid,Backpack,Accessories,5,1607,20.0,8035,4752.1,2025-12-28,Card,Express
+230,Michael,Berlin,Sneakers,Fashion,5,791,10.0,missing,2581.42,2025-09-30,Cash,Express
+231,Olivia,Paris,Smartphone,Electronics,4,413,5.0,1652,1020.04,2025-06-02,Cash,Express
+232,Olivia,Paris,Chair,Furniture,4,669,15.0,2676,1702.84,2025-05-21,PayPal,Express
+233,Anna,Paris,Backpack,Accessories,3,1975,5.0,5925,4956.82,2025-05-28,Card,Express
+234,Alex,Berlin,Sneakers,Fashion,3,1550,15.0,4650,2935.73,2025-10-03,PayPal,Express
+235,Alex,Berlin,Keyboard,Electronics,1,1280,20.0,1280,961.22,2025-01-26,PayPal,Standard
+236,Michael,Paris,Chair,Furniture,1,225,15.0,225,169.73,2025-02-21,Card,Standard
+237,Alex,Madrid,T-shirt,Fashion,2,853,15.0,1706,1102.67,2025-05-28,PayPal,Standard
+238,Anna,Warsaw,Headphones,Electronics,5,495,20.0,2475,1671.53,2025-03-31,Card,Standard
+239,Anna,Yerevan,Backpack,Accessories,4,401,10.0,1604,1155.5,2025-06-02,Card,Express
+240,Michael,Rome,Desk,Furniture,4,1333,20.0,5332,4293.96,2025-03-10,Cash,Express
+241,Michael,Warsaw,Chair,Furniture,1,697,5.0,697,437.14,2025-11-28,Card,Standard
+242,David,Berlin,Coffee Machine,Home,3,1182,5.0,3546,2904.57,2025-11-24,Cash,Express
+243,Maria,Berlin,Headphones,Electronics,4,1390,0.0,5560,3597.77,2025-09-02,Card,Standard
+244,Sophie,Prague,Desk,Furniture,4,502,15.0,2008,1286.29,2025-06-18,PayPal,Standard
+245,John,Yerevan,Desk,Furniture,3,1438,5.0,4314,2769.77,2025-08-27,Cash,Express
+246,Alex,Berlin,Headphones,Electronics,3,772,20.0,2316,1606.04,2025-03-10,Cash,Express
+247,Olivia,Prague,Backpack,Accessories,5,1889,15.0,9445,7534.1,2025-12-07,Card,Standard
+248,David,Yerevan,T-shirt,Fashion,4,1101,10.0,4404,2503.79,2025-02-27,PayPal,Standard
+249,Olivia,Paris,Smartphone,Electronics,5,326,5.0,1630,953.34,2025-08-15,Card,Express
+250,Maria,Madrid,Headphones,Electronics,5,932,0.0,4660,3143.76,2025-09-20,PayPal,Standard
+251,Anna,Warsaw,T-shirt,Fashion,4,1397,10.0,5588,3499.97,2025-07-22,Card,Standard
+252,John,Paris,Smartphone,Electronics,1,112,15.0,112,95.0,2025-10-05,Card,Express
+253,Maria,Prague,Laptop,Electronics,3,857,5.0,2571,2168.64,2025-11-25,PayPal,Express
+254,John,Madrid,Coffee Machine,Home,4,938,15.0,3752,3148.84,2025-12-16,PayPal,Standard
+255,Olivia,Madrid,Coffee Machine,Home,1,385,20.0,385,295.82,2025-03-07,Card,Standard
+256,Olivia,Madrid,Laptop,Electronics,3,968,20.0,2904,2314.51,2025-07-14,Card,Express
+257,John,Warsaw,Coffee Machine,Home,2,584,5.0,1168,926.04,2025-01-17,Cash,Standard
+258,Anna,Rome,Chair,Furniture,2,157,0.0,314,229.01,2025-08-17,PayPal,Standard
+259,Olivia,Berlin,Chair,Furniture,1,unknown,15.0,843,654.43,2025-04-22,Card,Standard
+260,David,Paris,T-shirt,Fashion,3,499,20.0,1497,1170.3,2025-11-03,Cash,Standard
+261,Emma,Berlin,Desk,Furniture,2,1372,20.0,2744,1735.71,2025-06-03,PayPal,Standard
+262,Emma,Paris,Backpack,Accessories,5,1035,0.0,5175,3341.09,2025-09-26,Cash,Express
+263,Olivia,Prague,Keyboard,Electronics,3,790,5.0,2370,1474.83,2025-08-31,Card,Express
+264,Emma,Rome,Keyboard,Electronics,4,1893,0.0,7572,5430.53,2025-08-02,Card,Express
+265,John,Warsaw,Chair,Furniture,3,436,10.0,1308,1051.82,2025-08-19,Card,Standard
+266,Anna,Rome,Laptop,Electronics,3,792,20.0,2376,1440.92,2025-02-07,PayPal,Standard
+267,Anna,Paris,Sneakers,Fashion,2,1800,10.0,3600,2992.13,2025-04-19,PayPal,Standard
+268,Alex,Warsaw,Sneakers,Fashion,2,1444,20.0,2888,2381.27,2025-07-23,PayPal,Express
+269,Daniel,Warsaw,Desk,Furniture,4,974,20.0,3896,2448.51,2025-06-07,PayPal,Express
+270,Daniel,Prague,Sneakers,Fashion,1,1664,15.0,1664,1100.26,2025-04-15,Cash,Standard
+271,Sophie,Yerevan,Smartphone,Electronics,2,1538,5.0,3076,2554.39,2025-10-11,PayPal,Express
+272,Emma,Berlin,Desk,Furniture,2,421,10.0,842,673.61,2025-10-19,Cash,Express
+273,Maria,Madrid,Desk,Furniture,4,1999,15.0,7996,4803.83,2025-06-30,PayPal,Express
+274,Anna,Rome,Keyboard,Electronics,5,1334,0.0,6670,5559.82,2025-02-08,PayPal,Standard
+275,Maria,Yerevan,Laptop,Electronics,4,301,5.0,1204,741.2,2025-01-05,Cash,Express
+276,Michael,Madrid,Laptop,Electronics,5,1326,20.0,6630,3659.65,2025-01-09,PayPal,Express
+277,Sophie,Rome,Laptop,Electronics,1,1104,10.0,1104,773.53,2025-01-09,PayPal,Express
+278,Maria,Rome,Keyboard,Electronics,1,1900,0.0,1900,1154.4,2025-05-04,PayPal,Express
+279,Daniel,Yerevan,Coffee Machine,Home,3,1648,15.0,4944,3399.99,2025-07-27,Card,Standard
+280,Emma,Yerevan,Desk,Furniture,?,1358,0.0,1358,900.56,2025-07-14,,Standard
+281,Emma,Prague,Laptop,Electronics,2,189,15.0,378,296.85,2025-11-27,PayPal,Standard
+282,David,Prague,T-shirt,Fashion,1,490,5.0,490,309.35,2025-09-01,Card,Express
+283,Daniel,Berlin,T-shirt,Fashion,5,1367,0.0,6835,5730.74,2025-01-09,PayPal,Standard
+284,Alex,Rome,Backpack,Accessories,1,632,5.0,632,505.85,2025-10-18,Cash,Express
+285,Daniel,Rome,Backpack,Accessories,2,1638,0.0,3276,1897.81,2025-01-28,Card,Standard
+286,Emma,Rome,Coffee Machine,Home,5,1594,20.0,7970,4454.33,2025-06-17,Cash,Express
+287,Emma,Madrid,Sneakers,Fashion,2,748,20.0,1496,1127.85,2025-04-06,PayPal,Express
+288,John,Warsaw,Headphones,Electronics,5,N/A,5.0,3120,1966.82,2025-02-12,Cash,Standard
+289,Anna,Yerevan,Backpack,Accessories,3,758,0.0,2274,1554.1,2025-06-07,Cash,Standard
+290,Olivia,Madrid,Keyboard,Electronics,1,403,15.0,403,283.6,2025-10-12,Card,Standard
+291,David,Rome,Headphones,Electronics,3,1155,0.0,3465,2803.59,2025-06-16,Card,Express
+292,Olivia,Warsaw,Backpack,Accessories,4,1615,0.0,6460,4661.46,2025-05-05,Card,Express
+293,Michael,Paris,Keyboard,Electronics,2,570,10.0,1140,648.64,2025-03-16,Cash,Express
+294,Sophie,Paris,Backpack,Accessories,3,1011,0.0,3033,2324.1,2025-05-07,Cash,Standard
+295,Emma,Yerevan,Sneakers,Fashion,1,297,10.0,297,238.34,2025-06-20,Cash,Express
+296,Sophie,Berlin,Sneakers,Fashion,3,901,20.0,2703,1975.79,2025-06-14,PayPal,Standard
+297,Sophie,Paris,Sneakers,Fashion,3,383,15.0,1149,850.11,2025-12-22,PayPal,Standard
+298,John,Paris,Coffee Machine,Home,4,594,15.0,2376,1449.22,2025-10-16,PayPal,Standard
+299,Alex,Warsaw,T-shirt,Fashion,1,1971,15.0,1971,1555.72,2025-08-13,PayPal,Standard
+300,Sophie,Berlin,Backpack,Accessories,4,305,10.0,1220,727.42,2025-12-04,Cash,Express
